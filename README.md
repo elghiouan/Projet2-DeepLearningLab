@@ -22,8 +22,8 @@ Ce projet explore deux techniques avancées pour les Grands Modèles de Langage 
 *   `README.md` : Ce fichier, décrivant le projet et sa configuration.
 
 ### Présentation Vidéo
-*   **Lien :** 
-*   **Durée :**
+*   **Lien :** https://drive.google.com/file/d/1pmSkZ7XcrzCGn9zdb2rhb8aClatSJWKQ
+*   **Durée :** 6min 19s 
 
 ## Installation & Prérequis
 Développé et testé sur Google Colab avec un GPU T4.
