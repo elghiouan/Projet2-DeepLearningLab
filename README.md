@@ -1,7 +1,7 @@
 # Projet : Exploration RAG et RLHF
 
 
-** Groupe : 7 **
+### Groupe : 7
 
 ** Projet réalisé par :**
 - EL GHIOUAN ISRAE
