@@ -3,7 +3,7 @@
 
 ### Groupe : 7
 
-** Projet réalisé par :**
+### Projet réalisé par :
 - EL GHIOUAN ISRAE
 - BENCHERAIK ABDESSAMAD
 
@@ -17,9 +17,9 @@ Ce projet explore deux techniques avancées dans le domaine des Grands Modèles 
 Le dépôt contient les éléments suivants :
 1.  `Gr7_Projet2_lab_RAG&RLHF_ISRAE_EL_GHIOUAN_ABDESSAMAD_BENCHERAIK.ipynb` : Le notebook avec le code source, les explications et les démonstrations.
 2.  `Readme.md` : Ce fichier, décrivant le projet, la configuration de l'environnement et la structure du code.
-3.  **Présentation Vidéo :**
-    *   **Lien :** `[À INSÉRER ICI - Mettez le lien vers votre vidéo hébergée (ex: YouTube, Drive, etc.)]`
-    *   **Durée :** `[À INSÉRER ICI - Indiquez la durée de votre vidéo, ex: 6 minutes 45 secondes]` (Doit être inférieure ou égale à 7 minutes)
+3.  Présentation Vidéo :
+    *   Lien : 
+    *   Durée :
 
 
 ## Configuration de l'Environnement de Développement
